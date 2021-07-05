@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Oh\Oh\bin\Release\netcoreapp3.1\Oh.exe
+C:\Users\user\source\repos\Oh\Oh\bin\Release\netcoreapp3.1\Oh.deps.json
+C:\Users\user\source\repos\Oh\Oh\bin\Release\netcoreapp3.1\Oh.runtimeconfig.json
+C:\Users\user\source\repos\Oh\Oh\bin\Release\netcoreapp3.1\Oh.runtimeconfig.dev.json
+C:\Users\user\source\repos\Oh\Oh\bin\Release\netcoreapp3.1\Oh.dll
+C:\Users\user\source\repos\Oh\Oh\bin\Release\netcoreapp3.1\Oh.pdb
+C:\Users\user\source\repos\Oh\Oh\obj\Release\netcoreapp3.1\Oh.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Oh\Oh\obj\Release\netcoreapp3.1\Oh.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Oh\Oh\obj\Release\netcoreapp3.1\Oh.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Oh\Oh\obj\Release\netcoreapp3.1\Oh.AssemblyInfo.cs
+C:\Users\user\source\repos\Oh\Oh\obj\Release\netcoreapp3.1\Oh.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Oh\Oh\obj\Release\netcoreapp3.1\Oh.dll
+C:\Users\user\source\repos\Oh\Oh\obj\Release\netcoreapp3.1\Oh.pdb
+C:\Users\user\source\repos\Oh\Oh\obj\Release\netcoreapp3.1\Oh.genruntimeconfig.cache
+C:\Users\user\source\repos\Oh\Oh\obj\Release\netcoreapp3.1\Oh.palet.resources
